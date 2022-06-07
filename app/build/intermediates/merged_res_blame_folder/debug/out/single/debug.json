@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_call_note_edit.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\call_note_edit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_note_edit.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\note_edit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_2x_red.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_2x_red.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_note_list.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\note_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_call_record.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\call_record.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_title_yellow.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_title_yellow.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_4x_blue.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_4x_blue.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_clock.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_title_bar_bg.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\title_bar_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\color_secondary_text_dark.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\color\\secondary_text_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_widget_2x.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\widget_2x.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_menu_delete.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\menu_delete.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\color_primary_text_dark.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\color\\primary_text_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_menu_move.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\menu_move.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\xml_widget_4x_info.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\xml\\widget_4x_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_red_single.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_red_single.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_font_small.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\font_small.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_note_list_footer.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\note_list_footer.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_safe.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\safe.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_white_down.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_white_down.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_new_note_normal.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\new_note_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_font_normal.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\font_normal.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_blue_middle.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_blue_middle.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pwd.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\activity_pwd.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_white_up.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_white_up.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_yellow_down.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_yellow_down.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_2x_green.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_2x_green.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_yellow_middle.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_yellow_middle.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_selected.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\selected.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_blue_down.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_blue_down.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_note_list_dropdown.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\note_list_dropdown.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_green_down.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_green_down.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_title_white.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_title_white.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_datetime_picker.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\datetime_picker.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_new_note_pressed.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\new_note_pressed.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_red.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_red.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_blue.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_blue.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_sub_folder.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\sub_folder.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_title_green.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_title_green.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_white_single.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_white_single.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_settings_header.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\settings_header.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\xml_widget_2x_info.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\xml\\widget_2x_info.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_note_edit_list_item.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\note_edit_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_yellow_single.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_yellow_single.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_dropdown_icon.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\dropdown_icon.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_title_blue.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_title_blue.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_yellow_up.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_yellow_up.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_blue_single.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_blue_single.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable_new_note.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\new_note.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_green_up.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_green_up.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_icon_app.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\icon_app.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_yellow.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_yellow.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_widget_4x.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\widget_4x.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_account_dialog_title.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\account_dialog_title.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_note_list.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\note_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_note_edit.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\note_edit.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\xml_searchable.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_4x_white.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_4x_white.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_title_red.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_title_red.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_red_up.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_red_up.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_safe_folder.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\activity_safe_folder.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_color_btn_mask.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\bg_color_btn_mask.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_btn_set_color.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\bg_btn_set_color.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_call_record_folder.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\call_record_folder.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_4x_red.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_4x_red.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_title_alert.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\title_alert.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_layout.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_2x_white.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_2x_white.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_2x_yellow.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_2x_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_green_middle.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_green_middle.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\raw-zh-rCN_introduction.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\raw-zh-rCN\\introduction"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_red_down.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_red_down.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_2x_blue.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_2x_blue.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_notification.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_dialog_layout.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\list_item_dialog_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_note_list_dropdown_menu.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\note_list_dropdown_menu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_red_middle.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_red_middle.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_font_size_selector_bg.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\font_size_selector_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_white.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_white.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_white_middle.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_white_middle.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_delete.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_background.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_background.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_4x_yellow.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_4x_yellow.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_widget_4x_green.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\widget_4x_green.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_footer_bg.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_footer_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_font_large.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\font_large.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\raw_introduction.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\raw\\introduction"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_folder_list_item.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\folder_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_blue_up.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_blue_up.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_edit_text.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\dialog_edit_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_add_account_text.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\add_account_text.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_green.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\edit_green.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_green_single.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_green_single.9.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\menu_note_list_options.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\menu\\note_list_options.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_font_super.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\font_super.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\layout_note_item.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\layout\\note_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_search_result.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\search_result.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_note_edit_color_selector_panel.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\note_edit_color_selector_panel.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Notes\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_folder.9.png.flat",
+        "source": "F:\\AndroidStudioProjects\\Notes\\app\\src\\main\\res\\drawable-hdpi\\list_folder.9.png"
+    }
+]

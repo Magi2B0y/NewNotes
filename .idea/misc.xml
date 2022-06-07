@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/account_dialog_title.xml" value="0.12310030395136778" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_add.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_edit.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_pwd.xml" value="0.15327730601086959" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/activity_safe_folder.xml" value="0.16941175927517163" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/add_account_text.xml" value="0.12310030395136778" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/datetime_picker.xml" value="0.12310030395136778" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/dialog_edit_text.xml" value="0.12310030395136778" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/folder_list_item.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/list_item_dialog_layout.xml" value="0.26621847886098404" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/list_item_layout.xml" value="0.20168066580377575" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/note_edit.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/note_edit_list_item.xml" value="0.20168066580377575" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/note_item.xml" value="0.12100839948226545" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/note_list.xml" value="0.13714285274656754" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/note_list_dropdown_menu.xml" value="0.1480978260869565" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/note_list_footer.xml" value="0.1480978260869565" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/settings_header.xml" value="0.1480978260869565" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/widget_2x.xml" value="0.1480978260869565" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/layout/widget_4x.xml" value="0.1480978260869565" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/call_note_edit.xml" value="0.13697916666666668" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/call_record_folder.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/menu_search.xml" value="0.16145833333333334" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/note_edit.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/note_list.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/note_list_dropdown.xml" value="0.20168066580377575" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/note_list_options.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/safe.xml" value="0.11197916666666667" />
+        <entry key="..\:/AndroidStudioProjects/Notes/app/src/main/res/menu/sub_folder.xml" value="0.16941175927517163" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

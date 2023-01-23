@@ -6,7 +6,7 @@ Secondary development based on Mi Note
 
 ### 1. Added the secure folder function
 
-enter in secure folder through inputing the password  (Hard coding: 123456)
+enter in secure folder through inputing the password  (password is hard coding: 123456)
 
 ### 2. Optimized the time when the note was modified 
 
